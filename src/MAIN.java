@@ -8,6 +8,7 @@ public class MAIN {
 		
 		
 		int x = 99;
+		boolean Wahr=false;
 		
 		// TODO Auto-generated method stub
 
